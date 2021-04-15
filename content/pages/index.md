@@ -10,7 +10,7 @@ sections:
     content: >-
       # LBLB
 
-      Willkommen bei LBLB.
+      Willkommen auf der LBLB-STRUGGLE.ZONE! Hier erwarten euch unglaubliche Dinge aus den Leben von LBLB.
     actions:
       - title: See all items
         url: /store
