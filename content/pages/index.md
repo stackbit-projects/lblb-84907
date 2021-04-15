@@ -10,8 +10,7 @@ sections:
     content: >-
       # LBLB
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      Willkommen bei LBLB.
     actions:
       - title: See all items
         url: /store
