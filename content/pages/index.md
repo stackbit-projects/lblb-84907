@@ -8,7 +8,7 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 65
     content: >-
-      # LBLB
+      # LBLB - STRUGGLEZONE
 
       Willkommen auf der LBLB-STRUGGLE.ZONE! Hier erwarten euch unglaubliche Dinge aus den Leben von LBLB.
     actions:
